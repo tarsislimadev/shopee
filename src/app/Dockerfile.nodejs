@@ -1,0 +1,13 @@
+FROM node:alpine
+
+# FROM tmvdl/node:firebase-tools
+
+WORKDIR /app
+
+# RUN npm install -g firebase-tools
+
+# RUN firebase login
+
+# RUN firebase init
+
+# RUN firebase deploy
