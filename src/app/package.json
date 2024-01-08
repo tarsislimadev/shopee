@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@brtmvdl/frontend": "^1.0.12",
     "firebase": "^10.7.1"
   }
 }
